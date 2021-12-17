@@ -9,3 +9,4 @@ pytorch-lightning~=1.5.5
 setuptools
 torchvision~=0.10.1
 torch~=1.9.1
+torchtext~=0.10
